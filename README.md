@@ -4,13 +4,13 @@ Nesse repositório irei resolver os 12 dias do Advent of Code 2025. Cada dia em 
 
 1. Clojure
 2. C++
-3. Swift
-4. JavaScript
-5. Java
-6. Rust
-7. Zig
-8. Haskell
-9. C#
-10. Ada
-11. Erlang
-12. Go
+3. JavaScript
+4. Java
+5. Rust
+6. Zig
+7. Haskell
+8. C#
+9. Ada
+10. Erlang
+11. Go
+12. Julia
