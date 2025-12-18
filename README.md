@@ -6,7 +6,7 @@ Nesse repositório irei resolver os 12 dias do Advent of Code 2025. Cada dia em 
 2. C++
 3. JavaScript
 4. Java
-5. Rust
+5. Lua
 6. Zig
 7. Haskell
 8. C#
