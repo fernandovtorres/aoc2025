@@ -1,0 +1,15 @@
+/home/finga/Documents/aoc2025/day8/day8_part2/obj/Debug/net8.0/day8_part2.GeneratedMSBuildEditorConfig.editorconfig
+/home/finga/Documents/aoc2025/day8/day8_part2/obj/Debug/net8.0/day8_part2.AssemblyInfoInputs.cache
+/home/finga/Documents/aoc2025/day8/day8_part2/obj/Debug/net8.0/day8_part2.AssemblyInfo.cs
+/home/finga/Documents/aoc2025/day8/day8_part2/obj/Debug/net8.0/day8_part2.csproj.CoreCompileInputs.cache
+/home/finga/Documents/aoc2025/day8/day8_part2/obj/Debug/net8.0/day8_part2.sourcelink.json
+/home/finga/Documents/aoc2025/day8/day8_part2/bin/Debug/net8.0/day8_part2
+/home/finga/Documents/aoc2025/day8/day8_part2/bin/Debug/net8.0/day8_part2.deps.json
+/home/finga/Documents/aoc2025/day8/day8_part2/bin/Debug/net8.0/day8_part2.runtimeconfig.json
+/home/finga/Documents/aoc2025/day8/day8_part2/bin/Debug/net8.0/day8_part2.dll
+/home/finga/Documents/aoc2025/day8/day8_part2/bin/Debug/net8.0/day8_part2.pdb
+/home/finga/Documents/aoc2025/day8/day8_part2/obj/Debug/net8.0/day8_part2.dll
+/home/finga/Documents/aoc2025/day8/day8_part2/obj/Debug/net8.0/refint/day8_part2.dll
+/home/finga/Documents/aoc2025/day8/day8_part2/obj/Debug/net8.0/day8_part2.pdb
+/home/finga/Documents/aoc2025/day8/day8_part2/obj/Debug/net8.0/day8_part2.genruntimeconfig.cache
+/home/finga/Documents/aoc2025/day8/day8_part2/obj/Debug/net8.0/ref/day8_part2.dll

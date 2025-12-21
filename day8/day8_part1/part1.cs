@@ -20,7 +20,7 @@ class Program
 
     static void Main()
     {
-        var lines = File.ReadAllLines("../inputs/day8.txt");
+        var lines = File.ReadAllLines("../../inputs/day8.txt");
         var points = new List<Point>();
 
         for (int i = 0; i < lines.Length; i++)
