@@ -1,0 +1,15 @@
+/home/finga/Documents/aoc2025/day8/bin/Debug/net8.0/day8
+/home/finga/Documents/aoc2025/day8/bin/Debug/net8.0/day8.deps.json
+/home/finga/Documents/aoc2025/day8/bin/Debug/net8.0/day8.runtimeconfig.json
+/home/finga/Documents/aoc2025/day8/bin/Debug/net8.0/day8.dll
+/home/finga/Documents/aoc2025/day8/bin/Debug/net8.0/day8.pdb
+/home/finga/Documents/aoc2025/day8/obj/Debug/net8.0/day8.GeneratedMSBuildEditorConfig.editorconfig
+/home/finga/Documents/aoc2025/day8/obj/Debug/net8.0/day8.AssemblyInfoInputs.cache
+/home/finga/Documents/aoc2025/day8/obj/Debug/net8.0/day8.AssemblyInfo.cs
+/home/finga/Documents/aoc2025/day8/obj/Debug/net8.0/day8.csproj.CoreCompileInputs.cache
+/home/finga/Documents/aoc2025/day8/obj/Debug/net8.0/day8.sourcelink.json
+/home/finga/Documents/aoc2025/day8/obj/Debug/net8.0/day8.dll
+/home/finga/Documents/aoc2025/day8/obj/Debug/net8.0/refint/day8.dll
+/home/finga/Documents/aoc2025/day8/obj/Debug/net8.0/day8.pdb
+/home/finga/Documents/aoc2025/day8/obj/Debug/net8.0/day8.genruntimeconfig.cache
+/home/finga/Documents/aoc2025/day8/obj/Debug/net8.0/ref/day8.dll
