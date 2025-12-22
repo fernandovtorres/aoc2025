@@ -14,3 +14,5 @@ Nesse repositório irei resolver os 12 dias do Advent of Code 2025. Cada dia em 
 10. Erlang
 11. Go
 12. Julia
+
+![](./imagens/cabou.png)
